@@ -25,6 +25,7 @@ $$
 u(t) = K_p e(t) + K_i \int e(t)dt + K_d \frac{de(t)}{dt}
 $$
 
+![PID Block Diagram](pid-diagram.png)
 ## Applications
 
 PID controllers are commonly used in:
